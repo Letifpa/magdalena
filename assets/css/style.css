@@ -18,6 +18,7 @@ body {
   background-image: url(../img/bg_hero.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   padding: 18rem 3.125rem;
   font-family: "oswald", sans-serif;
   color: #ffffff;
