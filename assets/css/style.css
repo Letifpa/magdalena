@@ -108,3 +108,24 @@ footer {
   vertical-align: middle;
   padding: 1rem;
 }
+
+.experiencia-titulo {
+  font-family: "oswald", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.iconos-experiencia {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 4rem;
+}
+
+.fas {
+  color: #660066;
+}
+
+.fecha {
+  font-size: 1.2rem;
+  font-weight: 300;
+}
