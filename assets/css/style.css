@@ -19,9 +19,13 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 18rem 3.125rem;
+  padding: 6rem 3.125rem;
   font-family: "oswald", sans-serif;
   color: #ffffff;
+}
+
+.titulo{
+  padding-top: 24rem;
 }
 
 h1 {
