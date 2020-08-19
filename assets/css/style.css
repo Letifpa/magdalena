@@ -1,0 +1,101 @@
+body {
+  font-family: "open sans", sans-serif;
+  margin: 0;
+  color: #373A3C;
+}
+
+.barra {
+  background-color: #660066;
+}
+
+.m-logo {
+  font-family: "oswald", sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.hero-section {
+  background-image: url(../img/bg_hero.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 18rem 3.125rem;
+  font-family: "oswald", sans-serif;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 5rem;
+  font-weight: 700;
+}
+
+.yo-soy {
+  font-size: 4rem;
+  font-weight: 200;
+}
+
+.linea-hero {
+  background-color: black;
+  width: 23rem;
+}
+
+.linea {
+  background-color: black;
+  width: 10rem;
+}
+
+.texto {
+  line-height: 3rem;
+}
+
+.subtitulos {
+  font-family: "oswald", sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+}
+
+.trabajos {
+  background-color: #660066;
+}
+
+.card-title {
+    font-family: "oswald", sans-serif;
+    font-size: 1.7rem;
+}
+
+.card-text {
+    font-weight: 300;
+}
+
+.trabajos-titulo {
+  padding-top: 4rem;
+}
+
+.contacto {
+  padding-top: 4rem;
+}
+
+.experiencia {
+  padding-top: 5rem;
+}
+
+.pregunta {
+  font-size: 2.5rem;
+}
+
+footer {
+    background-color: #660066;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.magdalena {
+  font-family: "oswald", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.icono {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1rem;
+}
