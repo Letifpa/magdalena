@@ -14,7 +14,7 @@ body {
   font-size: 2rem;
 }
 
-.hero-section {
+header {
   background-image: url(../img/bg_hero.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -56,10 +56,16 @@ h1 {
   line-height: 3rem;
 }
 
+@media (max-width: 701px) {
+  #sobre-mi {
+    display: none;
+  }
+}
+
 .subtitulos {
   font-family: "oswald", sans-serif;
   font-weight: 700;
-  font-size: 4rem;
+  font-size: 4em;
 }
 
 .trabajos {
@@ -128,10 +134,4 @@ footer {
 .fecha {
   font-size: 1.2rem;
   font-weight: 300;
-}
-
-@media (max-width: 701px) {
-  #sobre-mi {
-    display: none;
-  }
 }
