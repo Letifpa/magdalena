@@ -28,6 +28,15 @@ h1 {
   font-weight: 700;
 }
 
+.boton {
+  font-size: 2rem;
+  margin-bottom: 15rem;
+}
+
+.linea-contacto {
+  margin-bottom: 10rem;
+}
+
 .yo-soy {
   font-size: 4rem;
   font-weight: 200;
